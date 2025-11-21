@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Rei-37LC/Rei-37LC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer with a strong interest in AI systems and modern software development.
+I’m currently focused on Python to deepen my understanding of LLMs, agent frameworks, and practical AI integration.
+I leverage AI-powered tools such as Cursor to accelerate development and rapidly validate ideas.
 
-Here are some ideas to get you started:
+🔥 Current Work
+	•	Building a Monster Hunter Now weapon tracker web application (fast prototype using Cursor)
+	•	Learning AI development in Python: LangChain, LLM workflows, and agent design
+	•	Expanding skills in iOS development and modern app patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Background
+	•	Prior experience developing Windows desktop applications in C# during school
+	•	Recently returned to software development with a strong focus on AI-driven productivity and rapid prototyping
+	•	Passionate about designing tools and systems that enhance efficiency and user experience
+
+🛠️ Technologies & Tools
+	•	Python, LangChain
+	•	Cursor, VS Code
+	•	Git & GitHub
+	•	Past experience with C# and desktop app development
