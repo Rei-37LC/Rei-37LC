@@ -5,16 +5,19 @@ I’m currently focused on Python to deepen my understanding of LLMs, agent fram
 I leverage AI-powered tools such as Cursor to accelerate development and rapidly validate ideas.
 
 🔥 Current Work
+
 	•	Building a Monster Hunter Now weapon tracker web application (fast prototype using Cursor)
 	•	Learning AI development in Python: LangChain, LLM workflows, and agent design
 	•	Expanding skills in iOS development and modern app patterns
 
 💼 Background
+
 	•	Prior experience developing Windows desktop applications in C# during school
 	•	Recently returned to software development with a strong focus on AI-driven productivity and rapid prototyping
 	•	Passionate about designing tools and systems that enhance efficiency and user experience
 
 🛠️ Technologies & Tools
+
 	•	Python, LangChain
 	•	Cursor, VS Code
 	•	Git & GitHub
