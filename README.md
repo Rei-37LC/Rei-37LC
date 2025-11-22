@@ -6,7 +6,6 @@ I leverage AI-powered tools such as Cursor to accelerate development and rapidly
 
 🔥 Current Work
 
-	•	Building a Monster Hunter Now weapon tracker web application (fast prototype using Cursor)
 	•	Learning AI development in Python: LangChain, LLM workflows, and agent design
 	•	Expanding skills in iOS development and modern app patterns
 
